@@ -1,0 +1,15 @@
+node_modules
+.next
+.output
+*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+*.local
+
+.DS_Store
+
+dist
+
+backend/supabase/.temp/
